@@ -1,0 +1,23 @@
+{
+  "name": "gbirke-calendar",
+  "version": "1.0.0",
+  "description": "Dabbling in calendar creation",
+  "dependencies": {
+    "luxon": "^0.5.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^22.4.1",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "calendar"
+  ],
+  "author": "Gabriel Birke <gb@birke-software.de>",
+  "license": "MIT",
+  "repository": "https://github.com/gbirke/calendar-dabblings"
+}
