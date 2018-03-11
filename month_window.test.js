@@ -60,4 +60,6 @@ describe( 'German locale', () => {
         expect( monthWindow( startDay ) ).toHaveLength( 28 );
     } );
 
+    // TODO test month with DST change - dates should still follow each other
+
 } );
